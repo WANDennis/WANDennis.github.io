@@ -2,7 +2,7 @@
 title: "Crowd Modeling and Control Via Cooperative Adaptive Filtering"
 collection: publications
 permalink: /publication/Crowd Modeling and Control Via Cooperative Adaptive Filtering
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper introduces a crowd modelling and motion control approach that employs diffusion adaptation within an adaptive network.'
 date: 2024/4/14
 venue: '2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)'
 slidesurl: # url
