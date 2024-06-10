@@ -9,29 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+**Education**
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc in MSc Communications and Signal Processing, Imperial College London
+* B.S. in Opto-Electronics Information Science and Engineering, Nanjing Tech University, 2022
 
-Work experience
+**PROFESSIONAL EXPERIENCE** 
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Crowd Modelling and Monitoring via Cooperative Adaptive Filtering, 01.2023 – 09.2023
+    * Designed and developed a model to simulate crowd movement within spatial constraints using diffusion adaptation, offering potential solutions for crowd management.
+    * Explored the application of this technique in multi-robot navigation and crowd monitoring, providing new avenues for autonomous system navigation and public safety management.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Design of high-throughput scanning and identification system for 2-D material, 09.2021 – 05.2022
+    * Utilized machine learning techniques to accurately identify and categorize different layers of 2D materials.
+    * Designed and developed a comprehensive database application to manage and store image data and metadata of 2D materials. Successfully obtained patents for the system, which has been integrated into practical use.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+**Work Experience**
+*  Teaching Assistant of Linear Algebra, Nanjing Tech University, 10.2020 – 01.2021
+  * Delivered comprehensive instruction on linear algebra concepts.
+  * Provided personalized academic advice and learning strategies to over fifty students, resulting in improved comprehension and overall performance.
+
+
 Skills
 ======
 * Skill 1
@@ -40,25 +38,3 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
