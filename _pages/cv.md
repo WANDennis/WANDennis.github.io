@@ -28,8 +28,7 @@ redirect_from:
   * Provided personalized academic advice and learning strategies to over fifty students, resulting in improved comprehension and overall performance.
 
 
-Skills
-======
+**Skills**
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
